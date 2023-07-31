@@ -6,6 +6,10 @@
   height: 40vmin;
   pointer-events: none;
 }
+.navbar_warapper a{
+  padding-left: 30px;
+}
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
